@@ -1,0 +1,378 @@
+.projects-wrapper {
+  pointer-events: none;
+}
+.layer,
+.layer-item {
+  will-change: transform;
+}
+.layer.is--first .layer-item:first-child {
+  height: 26.0416666667vw;
+  left: 56.3888888889vw;
+  top: 13.8888888889vw;
+  width: 20.8333333333vw;
+}
+
+.layer.is--first .layer-item:nth-child(2) {
+  height: 10.2083333333vw;
+  left: 151.8055555556vw;
+  top: 23.125vw;
+  width: 15.2777777778vw;
+}
+
+.layer.is--first .layer-item:nth-child(3) {
+  height: 19.7916666667vw;
+  left: 35.4166666667vw;
+  top: 71.4583333333vw;
+  width: 27.7777777778vw;
+}
+
+.layer.is--first .layer-item:nth-child(4) {
+  height: 13.3333333333vw;
+  left: 124.4444444444vw;
+  top: 68.0555555556vw;
+  width: 17.3611111111vw;
+}
+
+.layer.is--first .layer-item:nth-child(5) {
+  height: 15.625vw;
+  left: 244.5833333333vw;
+  top: 53.4722222222vw;
+  width: 20.8333333333vw;
+}
+
+.layer.is--first .layer-item:nth-child(6) {
+  height: 12.3611111111vw;
+  left: 99.1666666667vw;
+  top: 91.875vw;
+  width: 17.3611111111vw;
+}
+
+.layer.is--first .layer-item:nth-child(7) {
+  height: 11.3194444444vw;
+  left: 167.8472222222vw;
+  top: 87.9861111111vw;
+  width: 13.8888888889vw;
+}
+
+.layer.is--first .layer-item:nth-child(8) {
+  height: 13.4027777778vw;
+  left: 91.1111111111vw;
+  top: 126.3888888889vw;
+  width: 13.8888888889vw;
+}
+
+.layer.is--first .layer-item:nth-child(9) {
+  height: 17.3611111111vw;
+  left: 184.1666666667vw;
+  top: 126.3888888889vw;
+  width: 17.3611111111vw;
+}
+
+.layer.is--first .layer-item:nth-child(10) {
+  height: 30.1388888889vw;
+  left: 29.6527777778vw;
+  top: 146.1805555556vw;
+  width: 24.3055555556vw;
+  z-index: 25;
+}
+
+.layer.is--first .layer-item:nth-child(11) {
+  height: 13.8888888889vw;
+  left: 124.4444444444vw;
+  top: 171.6666666667vw;
+  width: 13.8888888889vw;
+}
+.layer.is--second .layer-item:nth-child(1) {
+  height: 25.0694444444vw;
+  left: 100.6944444444vw;
+  top: 15.9027777778vw;
+  width: 17.3611111111vw;
+}
+.layer.is--second .layer-item:nth-child(2) {
+  height: 20.8333333333vw;
+  left: 196.5277777778vw;
+  top: 18.3333333333vw;
+  width: 27.7777777778vw;
+}
+.layer.is--second .layer-item:nth-child(3) {
+  height: 21.3194444444vw;
+  left: 77.2222222222vw;
+  top: 57.4305555556vw;
+  width: 24.3055555556vw;
+}
+.layer.is--second .layer-item:nth-child(4) {
+  height: 23.6111111111vw;
+  left: 172.9861111111vw;
+  top: 53.4722222222vw;
+  width: 34.7222222222vw;
+}
+.layer.is--second .layer-item:nth-child(5) {
+  height: 18.5416666667vw;
+  left: 27.9166666667vw;
+  top: 109.7916666667vw;
+  width: 27.7777777778vw;
+}
+.layer.is--second .layer-item:nth-child(6) {
+  height: 21.5972222222vw;
+  left: 131.25vw;
+  top: 94.5138888889vw;
+  width: 24.3055555556vw;
+}
+.layer.is--second .layer-item:nth-child(7) {
+  height: 19.5138888889vw;
+  left: 214.8611111111vw;
+  top: 92.7777777778vw;
+  width: 34.7222222222vw;
+}
+.layer.is--second .layer-item:nth-child(8) {
+  height: 26.0416666667vw;
+  left: 130.4166666667vw;
+  top: 128.3333333333vw;
+  width: 20.8333333333vw;
+}
+.layer.is--second .layer-item:nth-child(9) {
+  height: 26.0416666667vw;
+  left: 225.2777777778vw;
+  top: 119.9305555556vw;
+  width: 20.8333333333vw;
+}
+.layer.is--second .layer-item:nth-child(10) {
+  height: 18.3333333333vw;
+  left: 77.2222222222vw;
+  top: 154.375vw;
+  width: 27.7777777778vw;
+}
+.layer.is--second .layer-item:nth-child(11) {
+  height: 19.0972222222vw;
+  left: 164.375vw;
+  top: 163.5416666667vw;
+  width: 34.7222222222vw;
+}
+.layer.is--third .layer-item:nth-child(1) {
+  height: 27.0138888889vw;
+  left: 18.0555555556vw;
+  top: 30.2777777778vw;
+  width: 40.5555555556vw;
+}
+.layer.is--third .layer-item:nth-child(2) {
+  height: 37.3611111111vw;
+  left: 128.3333333333vw;
+  top: 25.9722222222vw;
+  width: 37.3611111111vw;
+}
+.layer.is--third .layer-item:nth-child(3) {
+  height: 27.2916666667vw;
+  left: 214.8611111111vw;
+  top: 36.0416666667vw;
+  width: 45.5555555556vw;
+}
+.layer.is--third .layer-item:nth-child(4) {
+  height: 20.5555555556vw;
+  left: 65.9722222222vw;
+  top: 104.0277777778vw;
+  width: 34.3055555556vw;
+}
+.layer.is--third .layer-item:nth-child(5) {
+  height: 29.5833333333vw;
+  left: 172.9861111111vw;
+  top: 88.6111111111vw;
+  width: 29.5833333333vw;
+}
+.layer.is--third .layer-item:nth-child(6) {
+  height: 31.875vw;
+  left: 33.125vw;
+  top: 155.0694444444vw;
+  width: 53.125vw;
+}
+.layer.is--third .layer-item:nth-child(7) {
+  height: 47.2222222222vw;
+  left: 199.0277777778vw;
+  top: 138.4722222222vw;
+  width: 47.2222222222vw;
+}
+@media all and (max-width: 767px) {
+  .layer.is--first .layer-item:first-child {
+    height: 52.8vw;
+    left: 114.4vw;
+    top: 28vw;
+    width: 42.1333333333vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(2) {
+    height: 20.5333333333vw;
+    left: 308.2666666667vw;
+    top: 46.9333333333vw;
+    width: 30.9333333333vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(3) {
+    height: 40.2666666667vw;
+    left: 71.7333333333vw;
+    top: 145.0666666667vw;
+    width: 56.2666666667vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(4) {
+    height: 26.9333333333vw;
+    left: 252.8vw;
+    top: 138.1333333333vw;
+    width: 35.2vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(5) {
+    height: 31.7333333333vw;
+    left: 496.8vw;
+    top: 108.5333333333vw;
+    width: 42.1333333333vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(6) {
+    height: 25.0666666667vw;
+    left: 201.3333333333vw;
+    top: 186.6666666667vw;
+    width: 35.2vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(7) {
+    height: 22.9333333333vw;
+    left: 341.0666666667vw;
+    top: 178.6666666667vw;
+    width: 28vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(8) {
+    height: 27.2vw;
+    left: 185.0666666667vw;
+    top: 256.8vw;
+    width: 28vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(9) {
+    height: 35.2vw;
+    left: 374.1333333333vw;
+    top: 256.8vw;
+    width: 35.2vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(10) {
+    height: 61.0666666667vw;
+    left: 60vw;
+    top: 296.8vw;
+    width: 49.3333333333vw;
+  }
+
+  .layer.is--first .layer-item:nth-child(11) {
+    height: 28vw;
+    left: 252.8vw;
+    top: 348.8vw;
+    width: 28vw;
+  }
+  .layer.is--second .layer-item:nth-child(1) {
+    height: 50.9333333333vw;
+    left: 204.5333333333vw;
+    top: 32.2666666667vw;
+    width: 35.2vw;
+  }
+  .layer.is--second .layer-item:nth-child(2) {
+    height: 42.1333333333vw;
+    left: 399.2vw;
+    top: 37.0666666667vw;
+    width: 56.2666666667vw;
+  }
+  .layer.is--second .layer-item:nth-child(3) {
+    height: 43.2vw;
+    left: 156.8vw;
+    top: 116.5333333333vw;
+    width: 49.3333333333vw;
+  }
+  .layer.is--second .layer-item:nth-child(4) {
+    height: 47.7333333333vw;
+    left: 351.4666666667vw;
+    top: 108.5333333333vw;
+    width: 70.4vw;
+  }
+  .layer.is--second .layer-item:nth-child(5) {
+    height: 37.6vw;
+    left: 56.5333333333vw;
+    top: 222.9333333333vw;
+    width: 56.2666666667vw;
+  }
+  .layer.is--second .layer-item:nth-child(6) {
+    height: 43.7333333333vw;
+    left: 266.6666666667vw;
+    top: 192vw;
+    width: 49.3333333333vw;
+  }
+  .layer.is--second .layer-item:nth-child(7) {
+    height: 39.4666666667vw;
+    left: 436.5333333333vw;
+    top: 188.2666666667vw;
+    width: 70.4vw;
+  }
+  .layer.is--second .layer-item:nth-child(8) {
+    height: 52.8vw;
+    left: 264.8vw;
+    top: 260.5333333333vw;
+    width: 42.1333333333vw;
+  }
+  .layer.is--second .layer-item:nth-child(9) {
+    height: 52.8vw;
+    left: 457.6vw;
+    top: 243.4666666667vw;
+    width: 42.1333333333vw;
+  }
+  .layer.is--second .layer-item:nth-child(10) {
+    height: 37.0666666667vw;
+    left: 156.8vw;
+    top: 313.6vw;
+    width: 56.2666666667vw;
+  }
+  .layer.is--second .layer-item:nth-child(11) {
+    height: 38.6666666667vw;
+    left: 333.8666666667vw;
+    top: 332.2666666667vw;
+    width: 70.4vw;
+  }
+  .layer.is--third .layer-item:nth-child(1) {
+    height: 54.6666666667vw;
+    left: 36.5333333333vw;
+    top: 61.3333333333vw;
+    width: 82.4vw;
+  }
+  .layer.is--third .layer-item:nth-child(2) {
+    height: 75.7333333333vw;
+    left: 260.5333333333vw;
+    top: 52.5333333333vw;
+    width: 75.7333333333vw;
+  }
+  .layer.is--third .layer-item:nth-child(3) {
+    height: 55.2vw;
+    left: 436.5333333333vw;
+    top: 73.0666666667vw;
+    width: 92.5333333333vw;
+  }
+  .layer.is--third .layer-item:nth-child(4) {
+    height: 41.6vw;
+    left: 133.8666666667vw;
+    top: 211.2vw;
+    width: 69.6vw;
+  }
+  .layer.is--third .layer-item:nth-child(5) {
+    height: 60vw;
+    left: 351.4666666667vw;
+    top: 180vw;
+    width: 60vw;
+  }
+  .layer.is--third .layer-item:nth-child(6) {
+    height: 64.5333333333vw;
+    left: 67.2vw;
+    top: 314.9333333333vw;
+    width: 107.7333333333vw;
+  }
+  .layer.is--third .layer-item:nth-child(7) {
+    height: 96.8vw;
+    left: 426.6666666667vw;
+    top: 282.4vw;
+    width: 96.8vw;
+  }
+}
